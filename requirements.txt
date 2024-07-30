@@ -1,1 +1,1 @@
-django-q
+django-q2
